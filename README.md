@@ -6,17 +6,17 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Machine Learning engineer at S-PRO with UA citizenship, specializing in fusing robotics, simulations with machine learning and reinforcement learning. My technical range is broad, covering everything from BE/FE development, cloud platforms and containerization to 3D simulations.</p>
+    <p>I'm a Machine Learning / Data Science engineer at S-PRO with UA citizenship, specializing in fusing robotics, simulations with deep learning and reinforcement learning. My technical range is broad, covering everything from BE/FE development, cloud platforms and containerization to 3D simulations.</p>
 </div>
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
 <p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
 <div align="center">
-  <a href="[https://www.linkedin.com/in/danyil-orel-120a70154](https://www.linkedin.com/in/danyil-orel-120a70154/)">
+  <a href="https://www.linkedin.com/in/danyil-orel-120a70154/">
     <img src="https://img.shields.io/badge/danorel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-<a href="https://github.com/danorel/danorel" target="_blank">
+<a href="https://github.com/danorel?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
 </div>
@@ -43,7 +43,7 @@
 <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
 <p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=aws&logoColor=white" alt="AWS" />
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Kubernetes-623CE4?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
