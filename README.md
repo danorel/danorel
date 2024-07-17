@@ -19,6 +19,9 @@
 <a href="https://github.com/danorel?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/View%20on%20GitHub-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
 </a>
+<a href="https://t.me/danorel" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white" alt="Telegram">
+</a>
 </div>
 
 <div align="center">
