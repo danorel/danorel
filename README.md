@@ -32,12 +32,11 @@
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-FC1584?style=for-the-badge&logo=cpp&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Typescript-1B7631?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Clojure-FA7343?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure"/>
-  <img src="https://img.shields.io/badge/Lisp-0A0A0A?style=for-the-badge&logo=lisp&logoColor=white" alt="Lisp"/>
 
 </div>
 <h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
