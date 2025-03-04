@@ -6,7 +6,7 @@
 <div align="center">
     <h2>🚀 About Me</h2>
 <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Machine Learning / Data Science engineer at S-PRO with UA citizenship, specializing in fusing robotics, simulations with deep learning and reinforcement learning. My technical range is broad, covering everything from BE/FE development, cloud platforms and containerization to 3D simulations.</p>
+    <p>I'm a Machine Learning engineer at Rozetka (https://rozetka.com.ua/) with UA citizenship. I have a deep passion of DIY: from Lego to robotics constructions. My field of interest focuses on VLA systems as soon as it makes the constructions alive! I have a deep passion for RL and I am actively working on a simple robotics project that leverages my expertise in this area. My technical range is broad, covering everything from BE/FE development, cloud platforms and containerization to 3D simulations. But right now I am diving into the recommender systems.</p>
 </div>
 
 <div align="center">
