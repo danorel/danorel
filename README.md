@@ -5,8 +5,29 @@
 
 <div align="center">
     <h2>🚀 About Me</h2>
-<!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->
-    <p>I'm a Machine Learning engineer at Rozetka (https://rozetka.com.ua/) with UA citizenship. I have a deep passion of DIY: from Lego to robotics constructions. My field of interest focuses on VLA systems as soon as it makes the constructions alive! I have a deep passion for RL and I am actively working on a simple robotics project that leverages my expertise in this area. My technical range is broad, covering everything from BE/FE development, cloud platforms and containerization to 3D simulations. But right now I am diving into the recommender systems.</p>
+    <h3>Hi there! 👋</h3>
+    <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->    
+    <p>I'm a Machine Learning Engineer at <a href="https://rozetka.com.ua/">Rozetka</a>, Ukraine's largest e-commerce platform, where I build recommendation systems that help millions of users discover what they need.</p>
+    <h2>✨ What drives me</h2>
+    <p>
+        I've always been a builder and a curious mind – from Lego as a kid to robotics projects now, from reading physics papers to tinkering with machine learning models. There's something magical about understanding how the world works and then using that knowledge to create things that actually help people.
+    </p>
+    <p>
+        I'm passionate about science (physics especially!) and I love applying ML to solve real problems across completely different domains. That's why my portfolio looks so varied – I've worked on insurance and health projects, e-commerce recommendation systems, robotics control, and even built an entire startup from scratch. I've explored everything from Vision-Language-Action (VLA) systems to drone control projects, and I'm always excited to dive into new areas.
+    </p>
+    <p>
+        Right now, I'm deep into deep learning and building my personal self-hosted home assistant – something that genuinely excites me! I'm inspired to create an AI companion that helps with daily routines: turning lights on and off, chatting about the weather, suggesting what to wear today, and just making everyday life a bit smarter and more convenient.
+    </p>
+    <p>
+        My technical background is pretty broad – I'm kind of a Swiss Army knife when it comes to tech. Backend and frontend development, cloud platforms, containerization, 3D simulations – I've dabbled in it all. But what really drives me isn't just knowing these tools; it's using them to make a real impact on people's lives and solve problems that actually matter.
+    </p>
+    <h2>🔬 What you'll find here</h2>
+    <p>
+        This is my playground for experimenting, learning, and building! You'll find ML experiments, robotics simulations, physics-inspired projects, and probably some random stuff I'm just curious about. Each project is a learning adventure, and I love sharing that journey.
+    </p>
+    <p>
+        💬 Always happy to connect with fellow builders, learners, and anyone curious about science and technology!
+    </p>
 </div>
 
 <div align="center">
