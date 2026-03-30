@@ -13,13 +13,13 @@
         I've always been a builder and a curious mind – from physics papers to tinkering with ML models, there's something genuinely satisfying about understanding how a system works and then breaking it.
     </p>
     <p>
-        My background is varied: e-commerce recommendations, auction systems, anomaly detection, a startup, healthcare data. But the thread running through most of it is the same — I'm drawn to settings where someone is actively trying to exploit the system, and figuring out how to catch them.
+        My background is varied: e-commerce recommendations, auction systems, anomaly detection, a startup, healthcare data. But the thread running through most of it is the same – I'm drawn to settings where someone is actively trying to exploit the system, and figuring out how to catch them.
     </p>
     <p>
         That interest has pulled me toward LLM evaluation and AI safety. Scheming detection feels like the natural extension of everything I've been doing in production: an agent that optimizes against the evaluation mechanism instead of the actual objective. I've seen this pattern in auction sellers, in spoofing users, and now I want to study it in AI models directly.
     </p>
     <p>
-        Right now I'm also building a self-hosted voice assistant with a Ukrainian language model for smart home control — mostly because off-the-shelf solutions don't speak Ukrainian well enough, and that bothers me.
+        Right now I'm also building a self-hosted voice assistant with a Ukrainian language model for smart home control – mostly because off-the-shelf solutions don't speak Ukrainian well enough, and that bothers me.
     </p>
     <h2>🔬 What you'll find here</h2>
     <p>
