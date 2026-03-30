@@ -10,13 +10,13 @@
     <p>I'm a Machine Learning Engineer at <a href="https://rozetka.com.ua/">Rozetka</a>, Ukraine's largest e-commerce platform, where I build recommendation systems that help millions of users discover what they need.</p>
     <h2>✨ What drives me</h2>
     <p>
-        I've always been a builder and a curious mind – from physics papers to tinkering with ML models, there's something genuinely satisfying about understanding how a system works and then breaking it.
+        I've always been a builder and a curious mind – from physics papers to tinkering with ML models, there's something genuinely satisfying about understanding how a system works and then pushing it further.
     </p>
     <p>
-        My background is varied: e-commerce recommendations, auction systems, anomaly detection, a startup, healthcare data. But the thread running through most of it is the same – I'm drawn to settings where someone is actively trying to exploit the system, and figuring out how to catch them.
+        My background is deliberately varied: e-commerce recommendations, auction systems, anomaly detection, a startup, healthcare data. I like jumping between domains because the interesting problems rarely stay in one place – and the best ideas usually come from somewhere unexpected.
     </p>
     <p>
-        That interest has pulled me toward LLM evaluation and AI safety. Scheming detection feels like the natural extension of everything I've been doing in production: an agent that optimizes against the evaluation mechanism instead of the actual objective. I've seen this pattern in auction sellers, in spoofing users, and now I want to study it in AI models directly.
+        Lately I've been spending more time thinking about AI safety and LLM evaluation. The more capable models become, the more important it is to understand how they actually behave – not just on benchmarks but in the wild. It's a young field with a lot of open questions, which is exactly the kind of place I like to be.
     </p>
     <p>
         Right now I'm also building a self-hosted voice assistant with a Ukrainian language model for smart home control – mostly because off-the-shelf solutions don't speak Ukrainian well enough, and that bothers me.
