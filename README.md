@@ -1,13 +1,13 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Dan;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Dan;This+is..;..my+Github..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
 
 <div align="center">
     <h2>🚀 About Me</h2>
     <h3>Hi there! 👋</h3>
-    <!--     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p> -->    
-    <p>I'm a Machine Learning Engineer at <a href="https://rozetka.com.ua/">Rozetka</a>, Ukraine's largest e-commerce platform, where I build recommendation systems that help millions of users discover what they need.</p>
+    <p>I'm a Machine Learning Engineer who spent the last two years at <a href="https://rozetka.com.ua/">Rozetka</a>, Ukraine's largest e-commerce platform, building search, recommendation and auction systems used by millions of people.</p>
+    <p>These days I'm doing interpretability research as an exploration phase participant in <b>MATS 12.0</b>, in Neel Nanda's mechanistic interpretability stream.</p>
     <h2>✨ What drives me</h2>
     <p>
         I've always been a builder and a curious mind – from physics papers to tinkering with ML models, there's something genuinely satisfying about understanding how a system works and then pushing it further.
@@ -16,14 +16,24 @@
         My background is deliberately varied: e-commerce recommendations, auction systems, anomaly detection, a startup, healthcare data. I like jumping between domains because the interesting problems rarely stay in one place – and the best ideas usually come from somewhere unexpected.
     </p>
     <p>
-        Lately I've been spending more time thinking about AI safety and LLM evaluation. The more capable models become, the more important it is to understand how they actually behave – not just on benchmarks but in the wild. It's a young field with a lot of open questions, which is exactly the kind of place I like to be.
+        For a while I'd been spending more and more of my evenings on AI safety and LLM evaluation – now it's my full-time focus. The more capable models become, the more it matters to understand what's actually happening inside them, not just what they say on benchmarks. What I'm most curious about right now is the gap between what a model knows and what it tells you. It's a young field with a lot of open questions, which is exactly the kind of place I like to be.
     </p>
     <p>
-        Right now I'm also building a self-hosted voice assistant with a Ukrainian language model for smart home control – mostly because off-the-shelf solutions don't speak Ukrainian well enough, and that bothers me.
+        And when I'm not poking at activations, I like making things go fast – most recently that meant 1st place at the GPU Mode IRL Hackathon in Paris, with an MoE inference engine doing on 8×H200.
+    </p>
+    <h2>🧪 What I'm working on</h2>
+    <p>
+        <b><a href="https://github.com/zach-perlman/bridge-jspace">bridge-jspace</a></b> – together with Zach Perlman, asking whether the hidden "bridge" step in two-hop reasoning (Amazon River → Brazil → Portuguese) actually flows through the part of the representation interpretability tools can read, or somewhere they can't see.
+    </p>
+    <p>
+        <b><a href="https://github.com/danorel/interp-cot-control">interp-cot-control</a></b> – can a model keep a word out of its chain of thought when it knows someone is reading? A deceptively simple question.
+    </p>
+    <p>
+        <b>Deceptron</b> – my earlier project: an open-source pipeline for testing scheming-detection monitors on coding agents against Docker-verified outcomes on real GitHub repos, instead of asking yet another LLM to judge. The biggest lesson: getting trustworthy ground truth is much harder than building the monitor.
     </p>
     <h2>🔬 What you'll find here</h2>
     <p>
-        This is my playground for experimenting, learning, and building! You'll find ML experiments, robotics simulations, physics-inspired projects, and probably some random stuff I'm just curious about. Each project is a learning adventure, and I love sharing that journey.
+        This is my playground for experimenting, learning, and building! You'll find interpretability experiments, ML projects, robotics simulations, physics-inspired projects, and probably some random stuff I'm just curious about. Each project is a learning adventure, and I love sharing that journey.
     </p>
     <p>
         💬 Always happy to connect with fellow builders, learners, and anyone curious about science and technology!
@@ -32,7 +42,7 @@
 
 <div align="center">
 <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together! </p>
+<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about interpretability, ML, and technology. Let's build something together! </p>
 <div align="center">
   <a href="https://www.linkedin.com/in/danorel" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -56,6 +66,8 @@
 <p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-FC1584?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Typescript-1B7631?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
@@ -78,15 +90,15 @@
 <p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
  <table align="center" width="100%" height="100%" >
     <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danorel&theme=github_dark" alt="Dan's GitHub Stats"/></td>   
-       <td><img style="border: none;" src="https://github-readme-streak-stats.herokuapp.com/?user=danorel&theme=merko" alt="Dan's Contribution Streak"/></td>
+       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danorel&theme=github_dark" alt="Dan's GitHub Stats"/></td>
+       <td><img style="border: none;" src="https://streak-stats.demolab.com/?user=danorel&theme=merko" alt="Dan's Contribution Streak"/></td>
     </tr>
  </table>
 
  <table align="center" width="100%" height="100%" >
     <tr>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danorel&theme=github_dark" alt="Danorel's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danorel&theme=github_dark&utcOffset=10" alt="Dan's GitHub Stats"/>
+        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danorel&theme=github_dark&utcOffset=1" alt="Dan's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danorel&theme=github_dark" alt="Dan's GitHub Stats"/></td>
         <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danorel&theme=github_dark" alt="Dan's GitHub Stats"/></td>
     </tr>
