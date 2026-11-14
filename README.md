@@ -21,15 +21,18 @@
     <p>
         And when I'm not poking at activations, I like making things go fast – most recently that meant 1st place at the GPU Mode IRL Hackathon in Paris, with an MoE inference engine doing on 8×H200.
     </p>
+    <p>
+        And away from the screen, my newest hobby is building a drone from scratch – and learning to fly it, which turns out to be a whole different kind of debugging.
+    </p>
     <h2>🧪 What I'm working on</h2>
     <p>
-        <b><a href="https://github.com/zach-perlman/bridge-jspace">bridge-jspace</a></b> – together with Zach Perlman, asking whether the hidden "bridge" step in two-hop reasoning (Amazon River → Brazil → Portuguese) actually flows through the part of the representation interpretability tools can read, or somewhere they can't see.
+        <b><a href="https://github.com/zach-perlman/bridge-jspace">bridge-jspace</a></b> – together with <a href="https://github.com/zach-perlman">Zach Perlman</a>, asking whether the hidden "bridge" step in two-hop reasoning (Amazon River → Brazil → Portuguese) flows through the part of the representation interpretability tools can read, or somewhere they can't see. The answer depends on where the model gets its answer: recalling a fact from memory leans on what the lens can read, while looking it up in the prompt takes a route the lens doesn't see at all.
     </p>
     <p>
-        <b><a href="https://github.com/danorel/interp-cot-control">interp-cot-control</a></b> – can a model keep a word out of its chain of thought when it knows someone is reading? A deceptively simple question.
+        <b><a href="https://github.com/danorel/mats.secret-elicitation-audit">secret-elicitation-audit</a></b> – a model is fine-tuned to secretly know something about the user and deny it, and a benchmark scores how well interpretability tools can pull that secret out. A new probe seemed to beat the published methods, but the whole gain came from the layer it read, not from the probe – and the model grading every method turned out to have a favourite answer of its own. The lesson I keep coming back to: before crediting a method, check what else changed.
     </p>
     <p>
-        <b>Deceptron</b> – my earlier project: an open-source pipeline for testing scheming-detection monitors on coding agents against Docker-verified outcomes on real GitHub repos, instead of asking yet another LLM to judge. The biggest lesson: getting trustworthy ground truth is much harder than building the monitor.
+        Smaller experiments – a refusal-direction replication, chain-of-thought control, and <a href="https://github.com/danorel/deceptron">Deceptron</a>, a scheming-detection pipeline built on ground truth you can execute – are in my <a href="https://github.com/danorel?tab=repositories">repositories</a>.
     </p>
     <h2>🔬 What you'll find here</h2>
     <p>
@@ -41,66 +44,36 @@
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading">🌐 Connect with Me</h2>
-<p> To connect with me, you can find my professional profile and contact details on LinkedIn, or explore more about my projects and interests through my Linktree. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about interpretability, ML, and technology. Let's build something together! </p>
-<div align="center">
-  <a href="https://www.linkedin.com/in/danorel" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-<a href="https://github.com/danorel?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Repos-%230077B5.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Skyline"/>
-</a>
-<a href="https://t.me/danorel" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-</a>
+    <h2 align="center" class="section-heading">🌐 Connect with Me</h2>
+    <p>To connect with me, you can find my professional profile on LinkedIn or drop me an e-mail. Feel free to reach out for collaborations, opportunities, or just to exchange ideas about interpretability, ML, and technology. Let's build something together!</p>
+    <a href="https://www.linkedin.com/in/danorel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:mail.ordan@gmail.com"><img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/></a>
 </div>
 
 <div align="center">
-  <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity, showcasing the repositories I am currently working on. Each commit represents progress or fixes to ongoing projects, reflecting my commitment to continuous improvement and collaborative development. Dive into the commit messages for insights into what I've been up to!</p>
-  <img src="https://raw.githubusercontent.com/danorel/danorel/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/>
-  <img src="https://raw.githubusercontent.com/danorel/danorel/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/>
-</div>
-
-<h2 align="center" class="section-heading">💻 Programming Languages</h2>
-<p> As a multifaceted engineer, I've developed proficiency in a diverse set of programming languages, each serving as a pivotal tool in my development arsenal. Here are the languages I wield to turn complex problems into elegant solutions</p>
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/C++-FC1584?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Typescript-1B7631?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Clojure-FA7343?style=for-the-badge&logo=clojure&logoColor=white" alt="Clojure"/>
-
-</div>
-<h2 align="center" class="section-heading">☁️ Cloud Technologies</h2>
-<p>In the dynamic realm of cloud computing, I am proficient in leveraging leading cloud platforms and technologies to architect, deploy, and manage scalable, highly available, and fault-tolerant systems. Here's a glance at the cloud technologies I specialize in:</p>
-<div align="center">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-623CE4?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/DigitalOcean-BC5DE1?style=for-the-badge&logo=digitalocean&logoColor=white" alt="DigitalOcean"/>
+    <h2 align="center" class="section-heading">💻 Programming Languages</h2>
+    <p>The languages and libraries I actually work in day to day:</p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
 </div>
 
 <div align="center">
-<h2 align="center" class="section-heading"> 💻 Github Stats</h2>
-<p>Peek into my GitHub stats to see how I juggle code, coffee, and collaborations! Dive in to check out the milestones of my digital journey!</p>
- <table align="center" width="100%" height="100%" >
-    <tr>
-       <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danorel&theme=github_dark" alt="Dan's GitHub Stats"/></td>
-       <td><img style="border: none;" src="https://streak-stats.demolab.com/?user=danorel&theme=merko" alt="Dan's Contribution Streak"/></td>
-    </tr>
- </table>
+    <h2 align="center" class="section-heading">🔬 Research Toolkit</h2>
+    <p>What I reach for when I want to know what's actually going on inside a model:</p>
+    <img src="https://img.shields.io/badge/nnsight-5A4FCF?style=for-the-badge" alt="nnsight"/>
+    <img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge" alt="vLLM"/>
+    <img src="https://img.shields.io/badge/Activation%20Patching-F57C00?style=for-the-badge" alt="Activation Patching"/>
+    <img src="https://img.shields.io/badge/Linear%20Probes-2EA44F?style=for-the-badge" alt="Linear Probes"/>
+    <img src="https://img.shields.io/badge/Steering%20%26%20Ablation-D63384?style=for-the-badge" alt="Steering and Ablation"/>
+    <img src="https://img.shields.io/badge/LLM%20Judges-0E8A9E?style=for-the-badge" alt="LLM Judges"/>
+</div>
 
- <table align="center" width="100%" height="100%" >
-    <tr>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danorel&theme=github_dark" alt="Danorel's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=danorel&theme=github_dark&utcOffset=1" alt="Dan's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=danorel&theme=github_dark" alt="Dan's GitHub Stats"/></td>
-        <td><img style="border: none;" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=danorel&theme=github_dark" alt="Dan's GitHub Stats"/></td>
-    </tr>
- </table>
+<div align="center">
+    <h2 align="center" class="section-heading">⚙️ Infrastructure</h2>
+    <p>What I use to train, serve and ship models in production:</p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+    <img src="https://img.shields.io/badge/KServe-1E2B3C?style=for-the-badge" alt="KServe"/>
+    <img src="https://img.shields.io/badge/Vespa-61D790?style=for-the-badge" alt="Vespa"/>
 </div>
