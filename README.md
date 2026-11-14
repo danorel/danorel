@@ -6,8 +6,9 @@
 <div align="center">
     <h2>🚀 About Me</h2>
     <h3>Hi there! 👋</h3>
-    <p>I'm a Machine Learning Engineer who spent the last two years at <a href="https://rozetka.com.ua/">Rozetka</a>, Ukraine's largest e-commerce platform, building search, recommendation and auction systems used by millions of people.</p>
-    <p>These days I'm doing interpretability research as an exploration phase participant in <b>MATS 12.0</b>, in Neel Nanda's mechanistic interpretability stream.</p>
+    <p>I'm a Machine Learning Engineer who spent two years at <a href="https://rozetka.com.ua/">Rozetka</a>, Ukraine's largest e-commerce platform, building search, recommendation and auction systems used by millions of people.</p>
+    <p>Since then I've moved into interpretability research – most recently in the exploration phase of <b>MATS 12.0</b>, in Neel Nanda's mechanistic interpretability stream.</p>
+    <p>I'm open to research-focused roles in interpretability, LLM evaluation or ML engineering – based in Paris, remote, or happy to relocate, especially to the US.</p>
     <h2>✨ What drives me</h2>
     <p>
         I've always been a builder and a curious mind – from physics papers to tinkering with ML models, there's something genuinely satisfying about understanding how a system works and then pushing it further.
@@ -24,7 +25,7 @@
     <p>
         And away from the screen, my newest hobby is building a drone from scratch – and learning to fly it, which turns out to be a whole different kind of debugging.
     </p>
-    <h2>🧪 What I'm working on</h2>
+    <h2>🧪 What I've been working on</h2>
     <p>
         <b><a href="https://github.com/zach-perlman/bridge-jspace">bridge-jspace</a></b> – together with <a href="https://github.com/zach-perlman">Zach Perlman</a>, asking whether the hidden "bridge" step in two-hop reasoning (Amazon River → Brazil → Portuguese) flows through the part of the representation interpretability tools can read, or somewhere they can't see. The answer depends on where the model gets its answer: recalling a fact from memory leans on what the lens can read, while looking it up in the prompt takes a route the lens doesn't see at all.
     </p>
